@@ -16,6 +16,6 @@ assignees: ''
 :
 
 ## ✅ 이슈 만들 때 체크하셨나요?
-- [ ]  할당 (Assignees)
-- [ ]  라벨(Labels)
-- [ ]  프로젝트(Projects)
+- [x]  할당 (Assignees)
+- [x]  라벨(Labels)
+- [x]  프로젝트(Projects)
