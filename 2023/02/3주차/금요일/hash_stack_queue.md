@@ -30,7 +30,7 @@ class HashTable:
   
   def get(self, key):
     index = hash(key) % len(self.items)
-    self.items[index].get(key)
+    self.items[index].get(key)  ## DONE
 ```
 
 
