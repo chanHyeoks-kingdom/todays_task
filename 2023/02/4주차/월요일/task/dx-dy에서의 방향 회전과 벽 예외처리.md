@@ -4,6 +4,7 @@
 ###### method2: 방향을 우측으로 90도 회전키 위해 (direction_idx +1) % 4
 ###### method3: nx로 미리 다음 노드 탐색하고, 방향 전환 필요하면 전환한 다음에 x, y에는 새 위치로 나아가는 방식
 
+```
 n, m = tuple(map(int, input().split()))
 x, y = 0, 0
 
@@ -35,3 +36,4 @@ for i in range(n):
     for j in range(m):
         print(matrix[i][j], end = ' ')
     print()
+```
