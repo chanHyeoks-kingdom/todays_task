@@ -1,1 +1,2 @@
 # 1. 보통 for loop을 1억번 도는 데 걸리는 시간이 1초 정도 됩니다
+https://www.codetree.ai/missions/6/problems/basic-time-complexity/introduction
