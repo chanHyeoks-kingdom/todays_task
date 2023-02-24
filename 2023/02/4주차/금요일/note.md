@@ -1,2 +1,11 @@
-# 1. 보통 for loop을 1억번 도는 데 걸리는 시간이 1초 정도 됩니다
-https://www.codetree.ai/missions/6/problems/basic-time-complexity/introduction
+#### 1. 보통 for loop을 1억번 도는 데 걸리는 시간이 1초 정도 됩니다
+[참조](https://www.codetree.ai/missions/6/problems/basic-time-complexity/introduction)
+
+
+#### 2. bigO만 이용하는 이유
+```
+점근 표기법에는 O, Ω, θ 이라는 세가지 표기법이 있습니다. 만약 시간복잡도 측정 과정에서 ( 1 )을 사용한다면
+매우 정확하겠지만, 현실적으로 특정 코드의 시간복잡도를 완벽하게 알기 힘든 경우도 있으므로, 사용을 피하는 편입니다.
+또한, ( 2 )을 사용하게 된다면 오래 걸리는 코드의 시간복잡도를 너무 낮게 표현할 수 있는 위험이 있으므로,
+사용하지 않습니다.
+```
